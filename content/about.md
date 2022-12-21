@@ -1,7 +1,7 @@
 +++
 title = "Mentions Légales"
 date = "2022-12-21"
-aliases = ["about-us","about","contact","legals","mentions"]
+aliases = ["about-us","about","legals","mentions"]
 +++
 
 ## Entreprise
