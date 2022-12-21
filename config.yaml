@@ -1,4 +1,3 @@
-# TODO: set up as github page
 baseURL: 'https://unstaticlabs.com/'
 title: 'Unstatic Labs'
 theme: hello-friend-ng
@@ -35,7 +34,7 @@ permalinks:
 languages:
     en:
         languageName: "English"
-        subtitle: "A simple theme for Hugo" # TODO
+        subtitle: "creative inventions"
         weight: 1
         menu:
             main:
