@@ -38,11 +38,9 @@ languages:
         weight: 1
         menu:
             main:
-                # - name: Archive
-                #   url: archives
-                #   weight: 5
-                - name: Qibo
-                  url: https://askqibo.com/
+                - name: about
+                  url: about
+                  weight: 5
 outputs:
     home:
         - HTML
@@ -55,8 +53,6 @@ params:
     images: ["favicon.png"]
     footer:
         topText:
-            - "Valentin Viennot"
-            - "Roger Miret Giné"
             - <a href="/about">About & Legals</a>
         copyright: true
         # trademark: true
