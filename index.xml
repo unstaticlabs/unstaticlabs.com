@@ -6,7 +6,18 @@
     <description>Recent content on Unstatic Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Unstatic Labs © 2022-2023</copyright><atom:link href="https://unstaticlabs.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Unstatic Labs © 2022-2024</copyright><atom:link href="https://unstaticlabs.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mentions Légales</title>
+      <link>https://unstaticlabs.com/about/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstaticlabs.com/about/</guid>
+      <description>Entreprise Unstatic Labs est une société par actions simplifiée (SAS) immatriculée au Registre du Commerce et des Sociétés (RCS) de Nice sous le numéro SIREN 983 982 950. Le siège social de l&amp;rsquo;entreprise est situé au 79 avenue de la Lanterne, 06200 Nice, France.
+Le directeur de la publication du site web est son Président.
+Le site web est hébergé par GitHub Pages et est soumis à la loi française.</description>
+    </item>
+    
     <item>
       <title>Contact us</title>
       <link>https://unstaticlabs.com/contact/</link>
@@ -14,17 +25,6 @@
       
       <guid>https://unstaticlabs.com/contact/</guid>
       <description> Email: Message: Send </description>
-    </item>
-    
-    <item>
-      <title>Mentions Légales</title>
-      <link>https://unstaticlabs.com/about/</link>
-      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://unstaticlabs.com/about/</guid>
-      <description>Entreprise Unstatic Labs est une société par actions simplifiée (SAS) en cours de création auprès du Registre du Commerce et des Sociétés (RCS) de Nice. Le siège social de l&amp;rsquo;entreprise est situé à Nice (06).
-Le directeur de la publication du site web est son Président. Le site web est hébergé par GitHub Pages et est soumis à la loi française.
-Activités Unstatic Labs est une entreprise de développement de logiciels et de services.</description>
     </item>
     
   </channel>
