@@ -1,7 +1,7 @@
 baseURL: 'https://unstaticlabs.com/'
 title: 'Unstatic Labs'
 theme: hello-friend-ng
-copyright: 'Unstatic Labs © 2022-2024'
+copyright: 'Unstatic Labs © 2022-2025'
 
 paginate: 5
 
@@ -41,6 +41,8 @@ languages:
                 - name: about
                   url: about
                   weight: 5
+                - name: contact
+                  url: contact
 outputs:
     home:
         - HTML
