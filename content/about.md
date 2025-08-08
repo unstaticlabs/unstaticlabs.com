@@ -7,7 +7,7 @@ aliases = ["about-us","about","legals","mentions"]
 ## Entreprise
 
 Unstatic Labs est une société par actions simplifiée (SAS) immatriculée au Registre du Commerce et des Sociétés (RCS) de Nice sous le numéro SIREN 983 982 950.
-Le siège social de l'entreprise est situé au 79 avenue de la Lanterne, 06200 Nice, France.
+Le siège social de l'entreprise est situé au 60 rue François Ier, 75008 Paris, France.
 
 Le directeur de la publication du site web est [son Président](mailto:contact@unstaticlabs.com).
 
@@ -28,7 +28,7 @@ Notre priorité est **d'augmenter l'intelligence collective et individuelle**.
 
 - **Forme juridique** : Société par actions simplifiée unipersonnelle (SASU)
 - **Capital social** : 1 000 €
-- **Siège social** : 79 avenue de la Lanterne, 06200 Nice, France
+- **Siège social** : 60 rue François Ier, 75008 Paris, France
 - **SIREN** : 983 982 950
 - **Code APE** : 6201Z - Programmation informatique
 - **Immatriculation au RCS de Nice** : 05/02/2024
