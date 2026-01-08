@@ -8,24 +8,133 @@
     <language>en</language>
     <copyright>Unstatic Labs © 2022-2026</copyright><atom:link href="https://unstaticlabs.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mentions Légales</title>
-      <link>https://unstaticlabs.com/about/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <title>Contact</title>
+      <link>https://unstaticlabs.com/contact/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://unstaticlabs.com/about/</guid>
-      <description>Entreprise Unstatic Labs est une société par actions simplifiée (SAS) immatriculée au Registre du Commerce et des Sociétés (RCS) de Nice sous le numéro SIREN 983 982 950. Le siège social de l&amp;rsquo;entreprise est situé au 60 rue François Ier, 75008 Paris, France.
-Le directeur de la publication du site web est son Président.
-Le site web est hébergé par GitHub Pages et est soumis à la loi française.
-Activités Unstatic Labs a pour objet la conception, la programmation de logiciels, de sites web et d&amp;rsquo;outils informatiques, ainsi que la gestion de projets y relatifs.</description>
+      <guid>https://unstaticlabs.com/contact/</guid>
+      <description>Have a problem worth solving? Let&amp;rsquo;s talk.
+→ Partner Information · → How We Work
+Email General: contact@unstaticlabs.com Partners &amp;amp; compliance: partners@unstaticlabs.com We typically respond within 1-2 business days.
+Address Unstatic Labs
+60 rue François Ier
+75008 Paris, France
+Contact Form </description>
     </item>
     
     <item>
-      <title>Contact us</title>
-      <link>https://unstaticlabs.com/contact/</link>
-      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <title>Cookie Policy</title>
+      <link>https://unstaticlabs.com/cookies/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://unstaticlabs.com/contact/</guid>
-      <description> </description>
+      <guid>https://unstaticlabs.com/cookies/</guid>
+      <description>Effective date: January 2026
+Last updated: January 2026
+This policy explains how Unstatic Labs uses cookies and similar technologies on our website.
+What Are Cookies? Cookies are small text files stored on your device when you visit a website. They help websites function properly, remember your preferences, and provide analytics about site usage.
+Cookies We Use Essential Cookies These cookies are necessary for the website to function and cannot be disabled.</description>
+    </item>
+    
+    <item>
+      <title>How We Work</title>
+      <link>https://unstaticlabs.com/studio/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstaticlabs.com/studio/</guid>
+      <description>We operate on a hybrid model: where IT Consulting meets Venture Incubation.
+We turn our clients&amp;rsquo; problems into businesses that we co-own and co-build together.
+The Model Traditional consulting You pay → they deliver → they leave. Their incentive is billable hours, not your success.
+Our approach You come with a real-world business problem that we value → We work together to co-design a solution with the ambition to turn it into a product: you bring the domain knowledge, we bring the product skills.</description>
+    </item>
+    
+    <item>
+      <title>Mentions légales</title>
+      <link>https://unstaticlabs.com/legal/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstaticlabs.com/legal/</guid>
+      <description>Unstatic Labs a pour objet la conception, la programmation de logiciels, de sites web et d’outils informatiques, ainsi que la gestion de projets y relatifs. Elle réalise également des prestations de conseil en informatique, en programmation et en stratégie digitale.
+La mission d’Unstatic Labs est de libérer l’innovation.
+Nous construisons un futur libre, décentralisé, et collaboratif.
+Notre priorité est d’augmenter l’intelligence collective et individuelle.
+Company Information / Entreprise Company Name Unstatic Labs Legal Form Société par Actions Simplifiée (SAS) Share Capital €1,000 Headquarters 60 rue François Ier, 75008 Paris, France SIREN 983 982 950 Activity Code APE 6201Z – Programmation informatique RCS Registration Nice Registration Date 05/02/2024 VAT Number FR48983982950 Publication Director / Directeur de la Publication The publication director for this website is the President of Unstatic Labs.</description>
+    </item>
+    
+    <item>
+      <title>Partner Information</title>
+      <link>https://unstaticlabs.com/partners/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstaticlabs.com/partners/</guid>
+      <description>Company Overview Unstatic Labs (USL) is a French-registered software engineering and consulting company with a varied range of activities performed as part of its incubation strategy. Notably, USL hosts marketing, content creation, holding, and products seller activities.
+Unstatic Labs&amp;rsquo; mission is to free innovation.
+We are building a libre, decentralized, and collaborative future.
+Our #1 priority is to increase individual and collective intelligence.
+Legal Identity Legal Name Unstatic Labs Legal Form SAS (Société par Actions Simplifiée) Share Capital €1,000 SIREN 983 982 950 Activity Code APE 6201Z – Computer programming RCS Nice (registered 05/02/2024) Headquarters 60 rue François Ier, 75008 Paris, France VAT Number FR48983982950 What We Do Unstatic Labs primarily is a venture studio.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://unstaticlabs.com/privacy/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstaticlabs.com/privacy/</guid>
+      <description>Privacy Policy Effective date: January 2026
+Last updated: January 2026
+Unstatic Labs (&amp;ldquo;we&amp;rdquo;, &amp;ldquo;us&amp;rdquo;, &amp;ldquo;our&amp;rdquo;) is committed to protecting your privacy. This policy explains how we collect, use, and protect personal data in compliance with the General Data Protection Regulation (GDPR) and French data protection law.
+Data Controller Unstatic Labs
+60 rue François Ier
+75008 Paris, France
+SIREN: 983 982 950
+Contact: contact@unstaticlabs.com
+What Data We Collect Website Visitors When you visit our website, we may collect:</description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://unstaticlabs.com/security/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstaticlabs.com/security/</guid>
+      <description>Unstatic Labs takes security seriously. This page describes our security practices and how to report vulnerabilities.
+Our Security Practices Infrastructure Hosting: We use reputable cloud providers with strong security track records TLS/HTTPS: All connections are encrypted using modern TLS Access controls: Role-based access with principle of least privilege Monitoring: We monitor our systems for suspicious activity Development Code review: Code changes are reviewed before deployment Dependency management: We track and update dependencies regularly Secrets management: Credentials are stored securely, never in code Testing: We test for common vulnerabilities Data Protection Encryption: Data at rest and in transit is encrypted Backups: Regular backups with secure storage Access logging: Access to sensitive data is logged Data minimization: We collect only what we need Responsible Disclosure If you discover a security vulnerability in any Unstatic Labs system or website, we encourage you to report it responsibly.</description>
+    </item>
+    
+    <item>
+      <title>Terms of Use</title>
+      <link>https://unstaticlabs.com/terms/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstaticlabs.com/terms/</guid>
+      <description>Effective date: January 2026
+Last updated: January 2026
+These terms govern your use of the Unstatic Labs website (unstaticlabs.com). By accessing or using this website, you agree to these terms.
+1. Website Operator This website is operated by:
+Unstatic Labs
+60 rue François Ier
+75008 Paris, France
+SIREN: 983 982 950
+Email: contact@unstaticlabs.com
+2. Acceptance of Terms By accessing this website, you acknowledge that you have read, understood, and agree to be bound by these terms.</description>
+    </item>
+    
+    <item>
+      <title>Ventures</title>
+      <link>https://unstaticlabs.com/ventures/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://unstaticlabs.com/ventures/</guid>
+      <description>Products and companies we&amp;rsquo;re building or have co-created with partners.
+Current Portfolio Smash Status: Active development
+Category: Infrastructure
+Backend infrastructure and developer tools. Powers several of our incubated products.
+Yoshi Status: Incubation
+Category: Creator tools
+Tools for digital creators to manage content, engage communities, and monetize their work.
+Good Boys Club Status: Market validation
+Category: Community
+Community platform with limited merchandise for market testing.
+How Ventures Work Most ventures start as solutions to client problems.</description>
     </item>
     
   </channel>
