@@ -1,9 +1,10 @@
 baseURL: 'https://unstaticlabs.com/'
 title: 'Unstatic Labs'
 theme: hello-friend-ng
-copyright: 'Unstatic Labs © 2022-2025'
+copyright: 'Unstatic Labs © 2022-2026'
 
-paginate: 5
+pagination:
+    pagerSize: 5
 
 enableInlineShortcodes: true
 
@@ -91,6 +92,7 @@ privacy:
 
     twitter:
         disabled: false
+    x:
         enableDNT: true
         simple: true
 
@@ -105,5 +107,5 @@ privacy:
 services:
     instagram:
         disableInlineCSS: true
-    twitter:
+    x:
         disableInlineCSS: true
