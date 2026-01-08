@@ -3,10 +3,89 @@
 {{ end }}
 
 {{ define "main" }}
-    <main aria-role="main" style="display: flex; justify-content: center; align-items: center; flex: 1;">
-        <img 
-            style="width: 500px;max-width: 80%;margin: auto;"
-            src="{{ .Site.Params.Logo.logoPath }}"
-            alt="{{ .Site.Params.Logo.LogoText }}" />
-    </main>
+<main aria-role="main" class="homepage">
+    
+    <!-- Hero -->
+    <section style="text-align: center; padding: 6rem 1.5rem 2rem; max-width: 640px; margin: 0 auto;">
+        <img src="{{ .Site.Params.Logo.logoPath }}" alt="Unstatic Labs" style="display: block; width: 80px; height: auto; margin: 0 auto 2rem; opacity: 0.9;" />
+        <h1 style="font-size: 2.25rem; font-weight: 600; line-height: 1.25; margin-bottom: 1.5rem; letter-spacing: -0.02em;">
+            We turn your problems<br>into successful businesses.
+        </h1>
+        <p style="font-size: 1.05rem; line-height: 1.7; color: var(--color-secondary); margin-bottom: 2.5rem;">
+            You come to us with a problem.
+            We build an innovative solution together.
+            We validate the market.
+            We co-create a company where our interests are fully aligned.
+            Together, let's free innovation.
+        </p>
+        <div style="display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap;">
+            <a href="/contact" style="padding: 0.7rem 1.5rem; background: var(--color); color: var(--background); text-decoration: none; border-radius: 4px; font-size: 0.9rem;">Get in touch</a>
+            <a href="/studio" style="padding: 0.7rem 1.5rem; border: 1px solid var(--border-color); color: var(--color-secondary); text-decoration: none; border-radius: 4px; font-size: 0.9rem;">How it works</a>
+        </div>
+    </section>
+    <!-- How it works -->
+    <!-- 
+    <section style="padding: 4rem 1.5rem; max-width: 700px; margin: 0 auto; border-top: 1px solid var(--border-color);">
+        <p style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--color-secondary); margin-bottom: 2.5rem; text-align: center;">How it works</p>
+        
+        <div style="display: grid; gap: 2rem;">
+            <div style="display: grid; grid-template-columns: 2rem 1fr; gap: 1rem; align-items: start;">
+                <span style="color: var(--color-secondary); font-size: 0.85rem;">01</span>
+                <div>
+                    <strong style="display: block; margin-bottom: 0.4rem;">You have a problem</strong>
+                    <p style="color: var(--color-secondary); font-size: 0.9rem; line-height: 1.6; margin: 0;">A client comes to us with a business challenge. We scope it and begin work on a consulting basis.</p>
+                </div>
+            </div>
+            <div style="display: grid; grid-template-columns: 2rem 1fr; gap: 1rem; align-items: start;">
+                <span style="color: var(--color-secondary); font-size: 0.85rem;">02</span>
+                <div>
+                    <strong style="display: block; margin-bottom: 0.4rem;">We build a solution</strong>
+                    <p style="color: var(--color-secondary); font-size: 0.9rem; line-height: 1.6; margin: 0;">We develop digital products that solve the problem—not just for you, but potentially for an entire market.</p>
+                </div>
+            </div>
+            <div style="display: grid; grid-template-columns: 2rem 1fr; gap: 1rem; align-items: start;">
+                <span style="color: var(--color-secondary); font-size: 0.85rem;">03</span>
+                <div>
+                    <strong style="display: block; margin-bottom: 0.4rem;">We co-create a company</strong>
+                    <p style="color: var(--color-secondary); font-size: 0.9rem; line-height: 1.6; margin: 0;">When there's market opportunity, we spin off a joint venture. Both of us co-invest and co-own the business.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why different -->
+    <!-- 
+    <section style="padding: 4rem 1.5rem; max-width: 700px; margin: 0 auto; border-top: 1px solid var(--border-color);">
+        <p style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--color-secondary); margin-bottom: 2.5rem; text-align: center;">Why it's different</p>
+        
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem;">
+            <div>
+                <strong style="display: block; margin-bottom: 0.5rem; font-size: 0.95rem;">Aligned interests</strong>
+                <p style="color: var(--color-secondary); font-size: 0.85rem; line-height: 1.6; margin: 0;">We succeed when you succeed. No misaligned incentives.</p>
+            </div>
+            <div>
+                <strong style="display: block; margin-bottom: 0.5rem; font-size: 0.95rem;">Beyond your problem</strong>
+                <p style="color: var(--color-secondary); font-size: 0.85rem; line-height: 1.6; margin: 0;">Your solution becomes a product that helps everyone with the same challenge.</p>
+            </div>
+            <div>
+                <strong style="display: block; margin-bottom: 0.5rem; font-size: 0.95rem;">Proven execution</strong>
+                <p style="color: var(--color-secondary); font-size: 0.85rem; line-height: 1.6; margin: 0;">We specialize in spinning up digital products into real companies.</p>
+            </div>
+        </div>
+    </section> -->
+
+    <!-- Company info -->
+    <section style="padding: 4rem 1.5rem 5rem; max-width: 700px; margin: 0 auto; border-top: 1px solid var(--border-color); text-align: center;">
+        <p style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--color-secondary); margin-bottom: 1.5rem;">Company</p>
+        <p style="font-size: 0.9rem; color: var(--color-secondary); line-height: 1.8; margin-bottom: 1.5rem;">
+            <strong style="color: var(--color);">Unstatic Labs</strong><br>
+            SAS · SIREN 983 982 950 · Paris, France<br>
+            <a href="mailto:contact@unstaticlabs.com" style="color: var(--color-secondary);">contact@unstaticlabs.com</a>
+        </p>
+        <p style="font-size: 0.8rem;">
+            <a href="/partners" style="color: var(--color-secondary); text-decoration: underline; text-underline-offset: 2px;">Partner & compliance info</a>
+        </p>
+    </section>
+
+</main>
 {{ end }}

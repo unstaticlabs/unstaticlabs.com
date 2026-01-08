@@ -1,4 +1,49 @@
-<!-- START Formbricks Surveys -->
+<!-- Structured Data (Organization Schema) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Unstatic Labs",
+  "legalName": "Unstatic Labs",
+  "url": "https://unstaticlabs.com",
+  "logo": "https://unstaticlabs.com/unstatic-logo.svg",
+  "description": "Venture studio that turns client problems into co-owned businesses. We build solutions, validate markets, and spin off joint ventures with aligned interests.",
+  "foundingDate": "2024-02-05",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "60 rue François Ier",
+    "addressLocality": "Paris",
+    "postalCode": "75008",
+    "addressCountry": "FR"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "contact@unstaticlabs.com",
+    "contactType": "customer service",
+    "availableLanguage": ["English", "French"]
+  },
+  "taxID": "983982950",
+  "naics": "541511",
+  "isicV4": "6201",
+  "areaServed": "Europe",
+  "knowsAbout": ["Venture Studio", "Company Building", "Digital Products", "Software Development", "Startup Incubation"],
+  "slogan": "We turn problems into businesses."
+}
+</script>
+
+<!-- Open Graph -->
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Unstatic Labs" />
+<meta property="og:locale" content="en_US" />
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary" />
+
+<!-- Geo -->
+<meta name="geo.region" content="FR-75" />
+<meta name="geo.placename" content="Paris" />
+
+<!-- Formbricks -->
 <script type="text/javascript">
     !function () {
         var apiHost = "https://forms.unstaticlabs.com";
@@ -6,4 +51,3 @@
         var t = document.createElement("script"); t.type = "text/javascript", t.async = !0, t.src = apiHost + "/api/packages/website"; var e = document.getElementsByTagName("script")[0]; e.parentNode.insertBefore(t, e), setTimeout(function () { window.formbricks.init({ environmentId: environmentId, apiHost: apiHost }) }, 500)
     }();
 </script>
-<!-- END Formbricks Surveys -->

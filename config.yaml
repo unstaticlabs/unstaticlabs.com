@@ -35,28 +35,56 @@ permalinks:
 languages:
     en:
         languageName: "English"
-        subtitle: "creative inventions"
+        subtitle: "Venture Studio"
         weight: 1
         menu:
             main:
-                - name: about
-                  url: about
-                  weight: 5
-                - name: contact
+                - name: Studio
+                  url: studio
+                  weight: 1
+                # - name: Ventures
+                #   url: ventures
+                #   weight: 2
+                - name: Partners
+                  url: partners
+                  weight: 3
+                - name: Contact
                   url: contact
+                  weight: 4
+
 outputs:
     home:
         - HTML
         - RSS
-        - JSON
 
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Unstatic Labs"
+    env: production
+    description: "Unstatic Labs is a venture studio that turns client problems into co-owned businesses. We build solutions, validate markets, and spin off joint ventures with aligned interests."
+    keywords: ["venture studio", "co-creation", "joint venture", "digital products", "startup studio", "France", "SASU"]
+    Author: ["Unstatic Labs"]
     images: ["favicon.png"]
+    homeSubtitle: "We turn problems into businesses."
+    
+    # OpenGraph / Social
+    title: "Unstatic Labs - Venture Studio"
+    
+    # Company information for structured data
+    company:
+        name: "Unstatic Labs"
+        legalForm: "SAS"
+        siren: "983 982 950"
+        ape: "6201Z"
+        rcs: "Nice"
+        rcsDate: "05/02/2024"
+        address: "60 rue François Ier, 75008 Paris, France"
+        email: "contact@unstaticlabs.com"
+        partnersEmail: "partners@unstaticlabs.com"
+    
     footer:
         topText:
-            - <a href="/about">About & Legals</a>
+            - <a href="/legal">Legal Notice</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="/security">Security</a>
+        bottomText:
+            - "SAS (Société par Actions Simplifiée) · SIREN 983 982 950 · APE 6201Z · RCS Nice"
         copyright: true
         # trademark: true
         # rss: true
