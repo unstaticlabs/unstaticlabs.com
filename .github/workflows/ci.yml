@@ -22,7 +22,7 @@ jobs:
       # without the deploy. A bump to actions-hugo or to the theme fails here
       # first.
       - name: Set-up Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.119.0'
           extended: true
