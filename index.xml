@@ -1,141 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Unstatic Labs</title>
-    <link>https://unstaticlabs.com/</link>
-    <description>Recent content on Unstatic Labs</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Unstatic Labs © 2022-2026</copyright><atom:link href="https://unstaticlabs.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact</title>
-      <link>https://unstaticlabs.com/contact/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://unstaticlabs.com/contact/</guid>
-      <description>Have a problem worth solving? Let&amp;rsquo;s talk.
-→ Partner Information · → How We Work
-Email General: contact@unstaticlabs.com Partners &amp;amp; compliance: partners@unstaticlabs.com We typically respond within 1-2 business days.
-Address Unstatic Labs
-60 rue François Ier
-75008 Paris, France
-Contact Form </description>
-    </item>
-    
-    <item>
-      <title>Cookie Policy</title>
-      <link>https://unstaticlabs.com/cookies/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://unstaticlabs.com/cookies/</guid>
-      <description>Effective date: January 2026
-Last updated: January 2026
-This policy explains how Unstatic Labs uses cookies and similar technologies on our website.
-What Are Cookies? Cookies are small text files stored on your device when you visit a website. They help websites function properly, remember your preferences, and provide analytics about site usage.
-Cookies We Use Essential Cookies These cookies are necessary for the website to function and cannot be disabled.</description>
-    </item>
-    
-    <item>
-      <title>How We Work</title>
-      <link>https://unstaticlabs.com/studio/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://unstaticlabs.com/studio/</guid>
-      <description>We operate on a hybrid model: where IT Consulting meets Venture Incubation.
-We turn our clients&amp;rsquo; problems into businesses that we co-own and co-build together.
-The Model Traditional consulting You pay → they deliver → they leave. Their incentive is billable hours, not your success.
-Our approach You come with a real-world business problem that we value → We work together to co-design a solution with the ambition to turn it into a product: you bring the domain knowledge, we bring the product skills.</description>
-    </item>
-    
-    <item>
-      <title>Mentions légales</title>
-      <link>https://unstaticlabs.com/legal/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://unstaticlabs.com/legal/</guid>
-      <description>Unstatic Labs a pour objet la conception, la programmation de logiciels, de sites web et d’outils informatiques, ainsi que la gestion de projets y relatifs. Elle réalise également des prestations de conseil en informatique, en programmation et en stratégie digitale.
-La mission d’Unstatic Labs est de libérer l’innovation.
-Nous construisons un futur libre, décentralisé, et collaboratif.
-Notre priorité est d’augmenter l’intelligence collective et individuelle.
-Company Information / Entreprise Company Name Unstatic Labs Legal Form Société par Actions Simplifiée (SAS) Share Capital €1,000 Headquarters 60 rue François Ier, 75008 Paris, France SIREN 983 982 950 Activity Code APE 6201Z – Programmation informatique RCS Registration Nice Registration Date 05/02/2024 VAT Number FR48983982950 Publication Director / Directeur de la Publication The publication director for this website is the President of Unstatic Labs.</description>
-    </item>
-    
-    <item>
-      <title>Partner Information</title>
-      <link>https://unstaticlabs.com/partners/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://unstaticlabs.com/partners/</guid>
-      <description>Company Overview Unstatic Labs (USL) is a French-registered software engineering and consulting company with a varied range of activities performed as part of its incubation strategy. Notably, USL hosts marketing, content creation, holding, and products seller activities.
-Unstatic Labs&amp;rsquo; mission is to free innovation.
-We are building a libre, decentralized, and collaborative future.
-Our #1 priority is to increase individual and collective intelligence.
-Legal Identity Legal Name Unstatic Labs Legal Form SAS (Société par Actions Simplifiée) Share Capital €1,000 SIREN 983 982 950 Activity Code APE 6201Z – Computer programming RCS Nice (registered 05/02/2024) Headquarters 60 rue François Ier, 75008 Paris, France VAT Number FR48983982950 What We Do Unstatic Labs primarily is a venture studio.</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://unstaticlabs.com/privacy/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://unstaticlabs.com/privacy/</guid>
-      <description>Privacy Policy Effective date: January 2026
-Last updated: January 2026
-Unstatic Labs (&amp;ldquo;we&amp;rdquo;, &amp;ldquo;us&amp;rdquo;, &amp;ldquo;our&amp;rdquo;) is committed to protecting your privacy. This policy explains how we collect, use, and protect personal data in compliance with the General Data Protection Regulation (GDPR) and French data protection law.
-Data Controller Unstatic Labs
-60 rue François Ier
-75008 Paris, France
-SIREN: 983 982 950
-Contact: contact@unstaticlabs.com
-What Data We Collect Website Visitors When you visit our website, we may collect:</description>
-    </item>
-    
-    <item>
-      <title>Security</title>
-      <link>https://unstaticlabs.com/security/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://unstaticlabs.com/security/</guid>
-      <description>Unstatic Labs takes security seriously. This page describes our security practices and how to report vulnerabilities.
-Our Security Practices Infrastructure Hosting: We use reputable cloud providers with strong security track records TLS/HTTPS: All connections are encrypted using modern TLS Access controls: Role-based access with principle of least privilege Monitoring: We monitor our systems for suspicious activity Development Code review: Code changes are reviewed before deployment Dependency management: We track and update dependencies regularly Secrets management: Credentials are stored securely, never in code Testing: We test for common vulnerabilities Data Protection Encryption: Data at rest and in transit is encrypted Backups: Regular backups with secure storage Access logging: Access to sensitive data is logged Data minimization: We collect only what we need Responsible Disclosure If you discover a security vulnerability in any Unstatic Labs system or website, we encourage you to report it responsibly.</description>
-    </item>
-    
-    <item>
-      <title>Terms of Use</title>
-      <link>https://unstaticlabs.com/terms/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://unstaticlabs.com/terms/</guid>
-      <description>Effective date: January 2026
-Last updated: January 2026
-These terms govern your use of the Unstatic Labs website (unstaticlabs.com). By accessing or using this website, you agree to these terms.
-1. Website Operator This website is operated by:
-Unstatic Labs
-60 rue François Ier
-75008 Paris, France
-SIREN: 983 982 950
-Email: contact@unstaticlabs.com
-2. Acceptance of Terms By accessing this website, you acknowledge that you have read, understood, and agree to be bound by these terms.</description>
-    </item>
-    
-    <item>
-      <title>Ventures</title>
-      <link>https://unstaticlabs.com/ventures/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://unstaticlabs.com/ventures/</guid>
-      <description>Products and companies we&amp;rsquo;re building or have co-created with partners.
-Current Portfolio Smash Status: Active development
-Category: Infrastructure
-Backend infrastructure and developer tools. Powers several of our incubated products.
-Yoshi Status: Incubation
-Category: Creator tools
-Tools for digital creators to manage content, engage communities, and monetize their work.
-Good Boys Club Status: Market validation
-Category: Community
-Community platform with limited merchandise for market testing.
-How Ventures Work Most ventures start as solutions to client problems.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Unstatic Labs</title>
+		<link>https://unstaticlabs.com/</link>
+		<description>Recent content on Unstatic Labs</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>Unstatic Labs © 2022-2026</copyright>
+		
+		
+			<lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://unstaticlabs.com/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Contact</title>
+				<link>https://unstaticlabs.com/contact/</link>
+				<pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://unstaticlabs.com/contact/</guid>
+				<description>&lt;p&gt;Have a problem worth solving? Let&amp;rsquo;s talk.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://unstaticlabs.com/partners/&#34;&gt;→ Partner Information&lt;/a&gt; · &lt;a href=&#34;https://unstaticlabs.com/studio/&#34;&gt;→ How We Work&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;email&#34;&gt;Email&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;General:&lt;/strong&gt; &lt;a href=&#34;mailto:contact@unstaticlabs.com&#34;&gt;contact@unstaticlabs.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Partners &amp;amp; compliance:&lt;/strong&gt; &lt;a href=&#34;mailto:partners@unstaticlabs.com&#34;&gt;partners@unstaticlabs.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We typically respond within 1-2 business days.&lt;/p&gt;&#xA;&lt;h2 id=&#34;address&#34;&gt;Address&lt;/h2&gt;&#xA;&lt;p&gt;Unstatic Labs&lt;br&gt;&#xA;60 rue François Ier&lt;br&gt;&#xA;75008 Paris, France&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;contact-form&#34;&gt;Contact Form&lt;/h2&gt;&#xA;&lt;div style=&#34;position: relative; height:80dvh; overflow:auto;&#34;&gt;&#xA;    &lt;iframe src=&#34;https://forms.unstaticlabs.com/s/cm48n4sif0001jgen92b02u20?embed=true&#34; frameborder=&#34;0&#34;&#xA;        style=&#34;position: absolute; left:0; top:0; width:100%; height:100%; border:0;&#34;&gt;&#xA;    &lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;hr&gt;</description>
+			</item>
+			<item>
+				<title>Cookie Policy</title>
+				<link>https://unstaticlabs.com/cookies/</link>
+				<pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://unstaticlabs.com/cookies/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Effective date&lt;/strong&gt;: January 2026&lt;br&gt;&#xA;&lt;strong&gt;Last updated&lt;/strong&gt;: January 2026&lt;/p&gt;&#xA;&lt;p&gt;This policy explains how Unstatic Labs uses cookies and similar technologies on our website.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-are-cookies&#34;&gt;What Are Cookies?&lt;/h2&gt;&#xA;&lt;p&gt;Cookies are small text files stored on your device when you visit a website. They help websites function properly, remember your preferences, and provide analytics about site usage.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;cookies-we-use&#34;&gt;Cookies We Use&lt;/h2&gt;&#xA;&lt;h3 id=&#34;essential-cookies&#34;&gt;Essential Cookies&lt;/h3&gt;&#xA;&lt;p&gt;These cookies are necessary for the website to function and cannot be disabled.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>How We Work</title>
+				<link>https://unstaticlabs.com/studio/</link>
+				<pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://unstaticlabs.com/studio/</guid>
+				<description>&lt;p&gt;We operate on a hybrid model: where &lt;strong&gt;IT Consulting&lt;/strong&gt; meets &lt;strong&gt;Venture Incubation&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;We turn our clients&amp;rsquo; problems into businesses that we co-own and co-build together.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-model&#34;&gt;The Model&lt;/h2&gt;&#xA;&lt;h3 id=&#34;traditional-consulting&#34;&gt;Traditional consulting&lt;/h3&gt;&#xA;&lt;p&gt;You pay → they deliver → they leave. Their incentive is billable hours, not your success.&lt;/p&gt;&#xA;&lt;h3 id=&#34;our-approach&#34;&gt;Our approach&lt;/h3&gt;&#xA;&lt;p&gt;You come with a real-world business problem that we value → &lt;strong&gt;We work together to co-design a solution&lt;/strong&gt; with the ambition to turn it into a product: you bring the domain knowledge, we bring the product skills.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Mentions légales</title>
+				<link>https://unstaticlabs.com/legal/</link>
+				<pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://unstaticlabs.com/legal/</guid>
+				<description>&lt;p&gt;Unstatic Labs a pour objet la conception, la programmation de logiciels, de sites web et d’outils informatiques, ainsi que la gestion de projets y relatifs. Elle réalise également des prestations de conseil en informatique, en programmation et en stratégie digitale.&lt;/p&gt;&#xA;&lt;p&gt;La mission d’Unstatic Labs est de &lt;strong&gt;libérer l’innovation&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Nous construisons un futur &lt;strong&gt;libre&lt;/strong&gt;, &lt;strong&gt;décentralisé&lt;/strong&gt;, et &lt;strong&gt;collaboratif&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Notre priorité est d’&lt;strong&gt;augmenter l’intelligence collective et individuelle&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;company-information--entreprise&#34;&gt;Company Information / Entreprise&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;Company Name&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Unstatic Labs&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;Legal Form&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Société par Actions Simplifiée (SAS)&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;Share Capital&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;€1,000&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;Headquarters&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;60 rue François Ier, 75008 Paris, France&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;SIREN&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;983 982 950&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;Activity Code&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;APE 6201Z – Programmation informatique&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;RCS Registration&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Nice&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;Registration Date&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;05/02/2024&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;VAT Number&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;FR48983982950&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;publication-director--directeur-de-la-publication&#34;&gt;Publication Director / Directeur de la Publication&lt;/h2&gt;&#xA;&lt;p&gt;The publication director for this website is the President of Unstatic Labs.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Partner Information</title>
+				<link>https://unstaticlabs.com/partners/</link>
+				<pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://unstaticlabs.com/partners/</guid>
+				<description>&lt;h2 id=&#34;company-overview&#34;&gt;Company Overview&lt;/h2&gt;&#xA;&lt;p&gt;Unstatic Labs (USL) is a French-registered software engineering and consulting company with a varied range of activities performed as part of its incubation strategy. Notably, USL hosts marketing, content creation, holding, and products seller activities.&lt;/p&gt;&#xA;&lt;p&gt;Unstatic Labs&amp;rsquo; mission is &lt;strong&gt;to free innovation&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;We are building a &lt;strong&gt;libre&lt;/strong&gt;, &lt;strong&gt;decentralized&lt;/strong&gt;, and &lt;strong&gt;collaborative&lt;/strong&gt; future.&lt;/p&gt;&#xA;&lt;p&gt;Our #1 priority is &lt;strong&gt;to increase individual and collective intelligence&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;legal-identity&#34;&gt;Legal Identity&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;Legal Name&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Unstatic Labs&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;Legal Form&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;SAS (Société par Actions Simplifiée)&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;Share Capital&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;€1,000&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;SIREN&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;983 982 950&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;Activity Code&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;APE 6201Z – Computer programming&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;RCS&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Nice (registered 05/02/2024)&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;Headquarters&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;60 rue François Ier, 75008 Paris, France&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;VAT Number&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;FR48983982950&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h3 id=&#34;what-we-do&#34;&gt;What We Do&lt;/h3&gt;&#xA;&lt;p&gt;Unstatic Labs primarily is a &lt;strong&gt;venture studio&lt;/strong&gt;. We:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Privacy Policy</title>
+				<link>https://unstaticlabs.com/privacy/</link>
+				<pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://unstaticlabs.com/privacy/</guid>
+				<description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Effective date&lt;/strong&gt;: January 2026&lt;br&gt;&#xA;&lt;strong&gt;Last updated&lt;/strong&gt;: January 2026&lt;/p&gt;&#xA;&lt;p&gt;Unstatic Labs (&amp;ldquo;we&amp;rdquo;, &amp;ldquo;us&amp;rdquo;, &amp;ldquo;our&amp;rdquo;) is committed to protecting your privacy. This policy explains how we collect, use, and protect personal data in compliance with the General Data Protection Regulation (GDPR) and French data protection law.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;data-controller&#34;&gt;Data Controller&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Unstatic Labs&lt;/strong&gt;&lt;br&gt;&#xA;60 rue François Ier&lt;br&gt;&#xA;75008 Paris, France&lt;br&gt;&#xA;SIREN: 983 982 950&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Contact&lt;/strong&gt;: &lt;a href=&#34;mailto:contact@unstaticlabs.com&#34;&gt;contact@unstaticlabs.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-data-we-collect&#34;&gt;What Data We Collect&lt;/h2&gt;&#xA;&lt;h3 id=&#34;website-visitors&#34;&gt;Website Visitors&lt;/h3&gt;&#xA;&lt;p&gt;When you visit our website, we may collect:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Security</title>
+				<link>https://unstaticlabs.com/security/</link>
+				<pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://unstaticlabs.com/security/</guid>
+				<description>&lt;p&gt;Unstatic Labs takes security seriously. This page describes our security practices and how to report vulnerabilities.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;our-security-practices&#34;&gt;Our Security Practices&lt;/h2&gt;&#xA;&lt;h3 id=&#34;infrastructure&#34;&gt;Infrastructure&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hosting&lt;/strong&gt;: We use reputable cloud providers with strong security track records&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;TLS/HTTPS&lt;/strong&gt;: All connections are encrypted using modern TLS&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Access controls&lt;/strong&gt;: Role-based access with principle of least privilege&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Monitoring&lt;/strong&gt;: We monitor our systems for suspicious activity&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;development&#34;&gt;Development&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Code review&lt;/strong&gt;: Code changes are reviewed before deployment&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dependency management&lt;/strong&gt;: We track and update dependencies regularly&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Secrets management&lt;/strong&gt;: Credentials are stored securely, never in code&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Testing&lt;/strong&gt;: We test for common vulnerabilities&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;data-protection&#34;&gt;Data Protection&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Encryption&lt;/strong&gt;: Data at rest and in transit is encrypted&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Backups&lt;/strong&gt;: Regular backups with secure storage&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Access logging&lt;/strong&gt;: Access to sensitive data is logged&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data minimization&lt;/strong&gt;: We collect only what we need&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;responsible-disclosure&#34;&gt;Responsible Disclosure&lt;/h2&gt;&#xA;&lt;p&gt;If you discover a security vulnerability in any Unstatic Labs system or website, we encourage you to report it responsibly.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Terms of Use</title>
+				<link>https://unstaticlabs.com/terms/</link>
+				<pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://unstaticlabs.com/terms/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Effective date&lt;/strong&gt;: January 2026&lt;br&gt;&#xA;&lt;strong&gt;Last updated&lt;/strong&gt;: January 2026&lt;/p&gt;&#xA;&lt;p&gt;These terms govern your use of the Unstatic Labs website (unstaticlabs.com). By accessing or using this website, you agree to these terms.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-website-operator&#34;&gt;1. Website Operator&lt;/h2&gt;&#xA;&lt;p&gt;This website is operated by:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Unstatic Labs&lt;/strong&gt;&lt;br&gt;&#xA;60 rue François Ier&lt;br&gt;&#xA;75008 Paris, France&lt;br&gt;&#xA;SIREN: 983 982 950&lt;br&gt;&#xA;Email: &lt;a href=&#34;mailto:contact@unstaticlabs.com&#34;&gt;contact@unstaticlabs.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-acceptance-of-terms&#34;&gt;2. Acceptance of Terms&lt;/h2&gt;&#xA;&lt;p&gt;By accessing this website, you acknowledge that you have read, understood, and agree to be bound by these terms. If you do not agree, please do not use this website.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ventures</title>
+				<link>https://unstaticlabs.com/ventures/</link>
+				<pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://unstaticlabs.com/ventures/</guid>
+				<description>&lt;p&gt;Products and companies we&amp;rsquo;re building or have co-created with partners.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;current-portfolio&#34;&gt;Current Portfolio&lt;/h2&gt;&#xA;&lt;h3 id=&#34;smash&#34;&gt;Smash&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Active development&lt;br&gt;&#xA;&lt;strong&gt;Category:&lt;/strong&gt; Infrastructure&lt;/p&gt;&#xA;&lt;p&gt;Backend infrastructure and developer tools. Powers several of our incubated products.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;yoshi&#34;&gt;Yoshi&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Incubation&lt;br&gt;&#xA;&lt;strong&gt;Category:&lt;/strong&gt; Creator tools&lt;/p&gt;&#xA;&lt;p&gt;Tools for digital creators to manage content, engage communities, and monetize their work.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;good-boys-club&#34;&gt;Good Boys Club&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Market validation&lt;br&gt;&#xA;&lt;strong&gt;Category:&lt;/strong&gt; Community&lt;/p&gt;&#xA;&lt;p&gt;Community platform with limited merchandise for market testing.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;how-ventures-work&#34;&gt;How Ventures Work&lt;/h2&gt;&#xA;&lt;p&gt;Most ventures start as solutions to client problems. When there&amp;rsquo;s broader market potential, we spin them off as joint ventures with co-investment from both parties.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
