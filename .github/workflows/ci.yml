@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           submodules: true # the theme is a submodule
           fetch-depth: 0
@@ -33,7 +33,7 @@ jobs:
   actionlint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       # Most pull requests here bump a GitHub action. actionlint reads the
       # workflow files and reports a bad reference or a bad expression.
