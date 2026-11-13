@@ -20,13 +20,18 @@ Our #1 priority is **to increase individual and collective intelligence**.
 | | |
 | --- | --- |
 | **Legal Name** | Unstatic Labs |
+| **Acronym** | USL |
 | **Legal Form** | SAS (Société par Actions Simplifiée) |
 | **Share Capital** | €1,000 |
 | **SIREN** | 983 982 950 |
+| **SIRET (head office)** | 983 982 950 00021 |
 | **Activity Code** | APE 6201Z – Computer programming |
 | **RCS** | Nice (registered 05/02/2024) |
-| **Headquarters** | 60 rue François Ier, 75008 Paris, France |
+| **Headquarters** | 60 rue François Ier, 75008 Paris, France (since 08/05/2025) |
 | **VAT Number** | FR48983982950 |
+| **Date of Creation** | 10/01/2024 |
+| **President** | Valentin Viennot |
+| **Status** | Active |
 
 ### What We Do
 
