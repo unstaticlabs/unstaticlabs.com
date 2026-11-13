@@ -18,18 +18,22 @@ Notre priorité est d’**augmenter l’intelligence collective et individuelle*
 | | |
 | --- | --- |
 | **Company Name** | Unstatic Labs |
+| **Acronym / Sigle** | USL |
 | **Legal Form** | Société par Actions Simplifiée (SAS) |
 | **Share Capital** | €1,000 |
 | **Headquarters** | 60 rue François Ier, 75008 Paris, France |
 | **SIREN** | 983 982 950 |
+| **SIRET (siège)** | 983 982 950 00021 |
 | **Activity Code** | APE 6201Z – Programmation informatique |
-| **RCS Registration** | Nice |
-| **Registration Date** | 05/02/2024 |
+| **RCS Registration** | Paris |
+| **First Registration** | 05/02/2024 (RCS Nice) |
 | **VAT Number** | FR48983982950 |
+| **Date of Creation** | 10/01/2024 |
+| **President / Président** | Valentin Viennot |
 
 ## Publication Director / Directeur de la Publication
 
-The publication director for this website is the President of Unstatic Labs.
+The publication director for this website is Valentin Viennot, President of Unstatic Labs.
 
 **Contact**: [contact@unstaticlabs.com](mailto:contact@unstaticlabs.com)
 

@@ -71,10 +71,16 @@ params:
     # Company information for structured data
     company:
         name: "Unstatic Labs"
+        acronym: "USL"
         legalForm: "SAS"
         siren: "983 982 950"
+        siret: "983 982 950 00021"
+        vat: "FR48983982950"
+        creationDate: "10/01/2024"
+        president: "Valentin Viennot"
         ape: "6201Z"
-        rcs: "Nice"
+        rcs: "Paris"
+        # First registration, at RCS Nice, before the head office moved to Paris on 08/05/2025
         rcsDate: "05/02/2024"
         address: "60 rue François Ier, 75008 Paris, France"
         email: "contact@unstaticlabs.com"
@@ -84,7 +90,7 @@ params:
         topText:
             - <a href="/legal">Legal Notice</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="/security">Security</a>
         bottomText:
-            - "SAS (Société par Actions Simplifiée) · SIREN 983 982 950 · APE 6201Z · RCS Nice"
+            - "SAS (Société par Actions Simplifiée) · SIREN 983 982 950 · APE 6201Z · RCS Paris"
         copyright: true
         # trademark: true
         # rss: true
