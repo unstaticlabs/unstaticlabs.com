@@ -26,8 +26,8 @@ Our #1 priority is **to increase individual and collective intelligence**.
 | **SIREN** | 983 982 950 |
 | **SIRET (head office)** | 983 982 950 00021 |
 | **Activity Code** | APE 6201Z – Computer programming |
-| **RCS** | Paris (first registered in Nice on 05/02/2024) |
-| **Headquarters** | 60 rue François Ier, 75008 Paris, France (since 08/05/2025) |
+| **RCS** | Paris |
+| **Headquarters** | 60 rue François Ier, 75008 Paris, France |
 | **VAT Number** | FR48983982950 |
 | **Date of Creation** | 10/01/2024 |
 | **President** | Valentin Viennot |

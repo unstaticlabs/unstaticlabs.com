@@ -26,7 +26,6 @@ Notre priorité est d’**augmenter l’intelligence collective et individuelle*
 | **SIRET (siège)** | 983 982 950 00021 |
 | **Activity Code** | APE 6201Z – Programmation informatique |
 | **RCS Registration** | Paris |
-| **First Registration** | 05/02/2024 (RCS Nice) |
 | **VAT Number** | FR48983982950 |
 | **Date of Creation** | 10/01/2024 |
 | **President / Président** | Valentin Viennot |
