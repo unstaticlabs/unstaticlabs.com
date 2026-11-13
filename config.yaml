@@ -80,8 +80,6 @@ params:
         president: "Valentin Viennot"
         ape: "6201Z"
         rcs: "Paris"
-        # First registration, at RCS Nice, before the head office moved to Paris on 08/05/2025
-        rcsDate: "05/02/2024"
         address: "60 rue François Ier, 75008 Paris, France"
         email: "contact@unstaticlabs.com"
         partnersEmail: "partners@unstaticlabs.com"
